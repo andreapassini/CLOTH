@@ -24,3 +24,7 @@ It will:
 - compile the libs added as separated projects in the directory "dependencies"
 - link the main project "Cloth" with its dependencies
 - Run the executable
+
+# How does it works?
+
+Take a look at this file: [Presentation](/Documentation.pdf)

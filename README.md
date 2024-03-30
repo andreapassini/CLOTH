@@ -27,4 +27,4 @@ It will:
 
 # How does it works?
 
-Take a look at this file: [Presentation](/Documentation.pdf)
+Take a look at this file: [Presentation](./Documentation.pdf)
